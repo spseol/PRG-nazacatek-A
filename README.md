@@ -1,7 +1,7 @@
 PRG-posloupnosti
 ====================
 
-V mnou vytvořeném [příkladu](blob/master/priklad.py) najdete program
+V mnou vytvořeném [příkladu](priklad.py) najdete program
 pro generování posloupnosti lichých čísel. Pokud je číslo dělitelné 5
 je záporné.
 
