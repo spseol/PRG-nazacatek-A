@@ -1,5 +1,5 @@
-PRG-posloupnosti
-====================
+# PRG -- na začátek A
+
 
 V mnou vytvořeném [příkladu](priklad.py) najdete program
 pro generování posloupnosti lichých čísel. Pokud je číslo dělitelné 5
